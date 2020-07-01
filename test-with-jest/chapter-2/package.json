@@ -1,0 +1,13 @@
+{
+  "name": "chapter-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "davidalves1 <alves.david@outlook.com> (https://davidalves1.com)",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}

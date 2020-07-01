@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListComponent should show list component corretly 1`] = `
+<div>
+  <ul>
+    <li><strong>Iron Man</strong></li>
+    <li><strong>Avengers</strong></li>
+    <li><strong>Infitinity War</strong></li>
+  </ul>
+</div>
+`;
+
+exports[`TestComponent should mount component corretly 1`] = `
+<div>
+  <h1>Hello David Alves</h1>
+</div>
+`;
